@@ -8,3 +8,6 @@ Step 2: Install Search Filter Plugin (npm install ng2-search-filter --save)
 Step 3: Register Ng2SearchPipeModule
 Step 4: Create Search Filter in Angular
 Step 5: Test Application
+
+** Start Application:
+ng serve -open
